@@ -1,4 +1,15 @@
+# Ruby & Jekyll
 _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Miscellaneous
+.DS_Store
