@@ -5,7 +5,7 @@ tags:
   - github
   - gist
 categories:
-  - syntax-highlighting
+  - Syntax Highlighting
 toc: false
 author_profile: true
 excerpt: "Test writing about how code blocks look on the site"
