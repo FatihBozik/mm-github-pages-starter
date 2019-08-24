@@ -22,7 +22,7 @@ twitter_username: bozifatih
 github_username: FatihBozik
 minimal_mistakes_skin: air
 search: true
-logo: "assets/images/logo.png"
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
