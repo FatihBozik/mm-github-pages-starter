@@ -1,7 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
+title: Welcome to Jekyll!
 categories:
   - Blog
+  - English
 tags:
   - Jekyll
   - Update

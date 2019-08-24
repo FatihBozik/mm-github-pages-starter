@@ -6,6 +6,7 @@ tags:
   - Gist
 categories:
   - Syntax Highlighting
+  - English
 toc: false
 author_profile: true
 excerpt: "Test writing about how code blocks look on the site"
