@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Jekyll
-  - update
+  - Update
 comments: true  
 ---
 

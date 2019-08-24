@@ -1,9 +1,9 @@
 ---
 title: "Syntax Highlighting Demo"
 tags:
-  - gist-embed
-  - github
-  - gist
+  - Gist-embed
+  - Github
+  - Gist
 categories:
   - Syntax Highlighting
 toc: false
