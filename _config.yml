@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: FB
+title: ""
 email: bozikfatih@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Inquisitive software engineer who enjoys handling tough problems
@@ -60,7 +60,6 @@ plugins:
 
 author:
   name: "Fatih Bozik"
-  bio: "Inquisitive software engineer who enjoys handling tough problems with a love of beating personal bests."
   location: "Istanbul, Turkey"
   email: "bozikfatih@gmail.com"
   github: "FatihBozik"
