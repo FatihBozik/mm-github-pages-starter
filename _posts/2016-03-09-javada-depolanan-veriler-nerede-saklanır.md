@@ -1,8 +1,7 @@
 ---
 title: Java'da Depolanan Veriler Nerede Saklanır?
 categories:
-  - Java SE
-  - Turkish
+  - Java
 tags:
   - Java
   - Heap
