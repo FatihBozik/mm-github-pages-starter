@@ -35,7 +35,7 @@ $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 
 $monospace: Menlo, Monaco, Consolas, "Lucida Console", monospace !default;
-$code-background-color: $base00 !default;
+$code-background-color: #ffffff !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
